@@ -1,7 +1,8 @@
 *
 
 !.gitignore
-!data/
+!.gitkeep
+!data
 !data_preparation.ipynb
 !machine_learning.ipynb
 !README.md
