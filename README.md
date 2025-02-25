@@ -1,0 +1,1 @@
+このリポジトリで利用している『JRA日本中央競馬会 Horse Racing Dataset』は、JRA日本中央競馬会によって提供されており、https://www.kaggle.com/datasets/takamotoki/jra-horse-racing-dataset から利用可能です。
